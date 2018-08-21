@@ -2,7 +2,7 @@
 
 # Pre-work - **Tip Calculator Mobile App**
 
-**Tip Calculator Mobile Appp** is a tip calculator application for iOS.
+**Tip Calculator Mobile App** is a tip calculator application for iOS.
 
 Submitted by: **Nithya Rajan**
 
