@@ -4,7 +4,7 @@
 
 **Tip Calculator Mobile Appp** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Nithya Rajan**
 
 Time spent: **X** hours spent in total
 
